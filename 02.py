@@ -1,0 +1,10 @@
+# a = "test"
+# مقدار = اسم متغیر
+# variable = value
+first_name = "Ali" # string
+family_name = "Eivazi"
+age = 22
+fav_color = "yellow"
+fav_food = "pasta"
+score = 14.17
+teacher = False
