@@ -1,4 +1,6 @@
-# R W A
-
-with open(r".\hello\text.txt", "w") as file:
-    file.write("")
+try:
+    x = 6
+    print(x)
+except:
+    x = 15
+    print(x)

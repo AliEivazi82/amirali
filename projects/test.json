@@ -1,0 +1,11 @@
+[
+{
+    "name":"Amirali",
+    "age":14,
+    "fav-foods":["pizza", "kabab"],
+    "Friends":{ "names":["ali","sadra","amir"],
+                "age":[14,14,14]
+    }
+},
+{}
+]

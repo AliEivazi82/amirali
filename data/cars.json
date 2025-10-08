@@ -1,0 +1,34 @@
+[
+    {
+        "name of car": "peykan",
+        "year": 1340,
+        "origin color": "white",
+        "number of wheels": 4,
+        "number of doors": 4,
+        "price": 1500.5
+    },
+    {
+        "name of car": "206",
+        "year": 1378,
+        "origin color": "red",
+        "number of wheels": 4,
+        "number of doors": 4,
+        "price": 4000.0
+    },
+    {
+        "name of car": "kmc t9",
+        "year": 2024,
+        "origin color": "black",
+        "number of wheels": 4,
+        "number of doors": 4,
+        "price": 95000.0
+    },
+    {
+        "name of car": "kmc t8",
+        "year": 2024,
+        "origin color": "black",
+        "number of wheels": 4,
+        "number of doors": 4,
+        "price": 70000.0
+    }
+]
